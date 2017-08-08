@@ -1,8 +1,10 @@
 ```diff
-+ # MAIN REPOSITORY PLACED here https://github.com/epam/JDI
+- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ```
-
---------------------------
+# MAIN REPOSITORY PLACED HERE https://github.com/epam/JDI
+```diff
+- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+```
 
 # JDI UI Test Automation Framework
 
